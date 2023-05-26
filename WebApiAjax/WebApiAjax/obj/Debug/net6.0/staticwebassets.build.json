@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Di464cQCSTZCfgwazNRCXqvx399rLXmvJ7G0JEFWAdc=",
+  "Source": "WebApiAjax",
+  "BasePath": "_content/WebApiAjax",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAjax\\wwwroot",
+      "Source": "WebApiAjax",
+      "ContentRoot": "C:\\Program Files\\studia\\studia_pp\\pp_tdake\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Program Files\\studia\\studia_pp\\pp_tdake\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "SourceId": "WebApiAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Program Files\\studia\\studia_pp\\pp_tdake\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
